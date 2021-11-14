@@ -1,5 +1,6 @@
 {
   "name": "test_task",
+  "homepage": "https://dolzhikov98.github.io/test_task/"
   "version": "0.1.0",
   "private": true,
   "dependencies": {
